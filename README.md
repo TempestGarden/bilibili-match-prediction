@@ -57,7 +57,6 @@ bilibili-match-prediction
 
 ## 使用说明
 
-
 1. **Fork 本项目**
 2. **获取 Bilibili Cookies**
 3. 浏览器打开并登录 [bilibili 网站]()
@@ -144,4 +143,3 @@ bilibili-match-prediction
 感谢 JetBrains 对本项目的支持。
 
 [![JetBrains](docs/IMG/jetbrains.svg)](https://www.jetbrains.com/?from=BILIBILI-HELPER)
-
